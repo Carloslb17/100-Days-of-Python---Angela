@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
-EMAIL = "carloslbnm@gmail.com"
-PASSWORD = "Makinaop17!"
+EMAIL = 
+PASSWORD = 
 chrome_options = Options()
 chrome_options.add_experimental_option("detach", True)
 
