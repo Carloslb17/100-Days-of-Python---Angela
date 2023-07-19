@@ -1,7 +1,7 @@
 import requests
 
 END_POINT = "https://api.openweathermap.org/data/2.5/onecall"
-weather_api = "3a8fac29e42e98d75890605f3b7ff386"
+weather_api = 
 parameters = {
         "lat": 51.51,
         "lon": 19.00,
