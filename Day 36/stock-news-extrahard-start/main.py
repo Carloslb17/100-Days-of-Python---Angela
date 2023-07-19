@@ -2,8 +2,8 @@ import smtplib
 
 
 
-MY_EMAIL = "infopythonprojects@gmail.com"
-MY_PASSWORD = "ajygnfxsvtldpuea"
+MY_EMAIL = 
+MY_PASSWORD = 
 
 
 
