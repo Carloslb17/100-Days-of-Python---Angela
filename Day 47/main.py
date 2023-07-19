@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import smtplib
 from datetime import date
 
-MY_EMAIL = "infopythonprojects@gmail.com"
-MY_PASSWORD = "ajygnfxsvtldpuea"
+MY_EMAIL = 
+MY_PASSWORD = 
 
 def price_split(input_price):
     """This function just takes the characters out and converts it in an integer"""
