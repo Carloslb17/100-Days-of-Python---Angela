@@ -1,0 +1,5 @@
+
+
+
+<img src="../qr-code-component-main/images/jean-philippe-delberghe-75xPHEQBmvA-unsplash.jpg"
+alt="cloud-img" height="1200px" width="2200px">

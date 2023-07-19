@@ -1,0 +1,68 @@
+body {
+    background: white;
+    width:500px;
+    height 600px;
+
+}
+
+.divider-one {
+
+    left: 0px;
+    top: 0px;
+    width: 135rem;
+    height: 70rem;
+    position: absolute;
+
+}
+
+.divider-two {
+    background-color: lightblue;
+    float: left;
+    position: relative;
+    margin: 80px;
+    height: 63rem;
+    width: 128rem;
+    z-index: 999;
+
+}
+
+.divider-three {
+
+    background-color: white;
+    margin: 3% auto 0;
+    height: 80%;
+    width: 25%;
+    border: 2px grey;
+    border-radius: 15px;
+}
+
+.image {
+    margin: 5% auto 0;
+    margin-left: 7%;
+    height: 60%;
+    width: 85%;
+    border: 2px grey;
+    border-radius: 15px;
+
+
+}
+
+.heading {
+    margin-top:50px ;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin: 5%;
+
+
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+             }
+
+.attribution-a {
+
+color: hsl(228, 45%, 44%);
+
+}
