@@ -1,8 +1,8 @@
 import requests
 
 pixela_endpoint = "https://pixe.la/v1/users"
-USERNAME = "carlos1212"
-TOKEN = "jskahdkjsahkaaansajsn"
+USERNAME = 
+TOKEN = 
 GRAPH_ID = "graph1"
 user_params = {
     "token": TOKEN,
