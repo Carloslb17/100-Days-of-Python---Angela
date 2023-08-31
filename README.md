@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 
 ## Descripción
-Este es un curso de Python diseñado para el desafío "100 Days of Code" con Angela Yu. Durante este curso, aprenderemos desde los conceptos básicos hasta técnicas avanzadas de programación en Python. El curso está diseñado para que puedas mejorar tus habilidades de programación y consolidar tu comprensión a través de proyectos prácticos.
+Este es un curso de Python diseñado para el desafío "100 Days of Code" con Angela Yu. Durante este curso, he aprendido desde los conceptos básicos hasta técnicas avanzadas de programación en Python. El curso está enfocado para mejorar las habilidades de programación y consolidar tu comprensión a través de proyectos prácticos.
 
 ## Contenido del curso.
 1. Introducción a Python.
